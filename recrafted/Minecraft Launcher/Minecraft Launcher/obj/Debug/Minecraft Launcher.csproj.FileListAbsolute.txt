@@ -1,0 +1,10 @@
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe.config
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.exe
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\bin\Debug\Minecraft Launcher.pdb
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.AssemblyReference.cache
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.Form1.resources
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft_Launcher.Properties.Resources.resources
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.GenerateResource.cache
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.csproj.CoreCompileInputs.cache
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.exe
+C:\Users\pepitkoo\Desktop\recrafted\Minecraft Launcher\Minecraft Launcher\obj\Debug\Minecraft Launcher.pdb
